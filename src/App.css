@@ -1,3 +1,7 @@
+body {
+  background-image: url(dictionary1.jpg);
+}
+
 .App footer {
   font-size: 14px;
   text-align: center;
